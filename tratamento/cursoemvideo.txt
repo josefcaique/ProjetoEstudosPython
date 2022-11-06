@@ -1,0 +1,3 @@
+josef; 21
+franciele; 20
+maria; 50
