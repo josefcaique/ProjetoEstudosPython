@@ -1,3 +1,5 @@
+#Dicionario
+
 aluno = dict()
 aluno['nome'] = str(input('Digite o nome do aluno: '))
 aluno['media'] = float(input(f'Digite a media do {aluno["nome"]}: '))
